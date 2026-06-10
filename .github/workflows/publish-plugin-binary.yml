@@ -13,5 +13,5 @@ permissions:
 
 jobs:
   publish:
-    uses: VoltLabs-Research/CoreToolkit/.github/workflows/build-plugin-binary.yml@main
+    uses: VoltLabs-Research/CoreToolkit/.github/workflows/build-plugin-binary.yml@293e531fb0e881a29c258f4ef2f8fe37a8a028fc
     secrets: inherit
